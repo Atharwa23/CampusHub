@@ -135,7 +135,3 @@ By default, the app runs in debug mode on `http://localhost:5000`.
 ## Contributing
 
 Contributions are welcome! Please fork the repo, create feature branches, and open pull requests. Report issues on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
