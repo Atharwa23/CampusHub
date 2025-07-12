@@ -58,7 +58,6 @@ Campus_Hub/
 ├── extensions.py              # Flask extension instances
 ├── models.py                  # Database schema and query functions
 ├── reset_db.py                # Script to reset or initialize the database
-├── LICENSE                    # Project license
 ├── lostnfound.db              # SQLite database file (auto-generated)
 ├── flask_session/             # File-based session storage
 ├── blueprints/                # Modular Flask blueprints
